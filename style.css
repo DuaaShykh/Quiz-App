@@ -23,6 +23,7 @@ body{
 .container{
     margin-top: 12%;
 }
+
 input[type=text] {
     border: none;
     border-radius: 15px;
